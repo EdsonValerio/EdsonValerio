@@ -33,6 +33,8 @@ Sou graduado em *Análise e Desenvolvimento de Sistemas*, com interesse constant
     </td>
     <td valign="top" width="50%">
       <strong>Frontend & Engenharia</strong><br/>
+      <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white" alt="Angular">
+      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
       <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React">
       <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
       <img src="https://img.shields.io/badge/Architecture-4+1-blue?style=flat-square" alt="Arquitetura 4+1">
