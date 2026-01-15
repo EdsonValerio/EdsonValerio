@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Olá, eu sou o Edson! 👋</h1>
+  <h1>Olá, eu sou o Edson! </h1>
   <p><strong>Software Engineer | Full Stack Developer | Architecture Enthusiast</strong></p>
 
   <a href="https://www.linkedin.com/in/edson-v/">
